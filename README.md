@@ -9,6 +9,13 @@ You can follow the project planning and progress here:
 
 ---
 
+## Node-RED Function Node Example
+
+You can download the example Node-RED function node JSON file here:  
+[node-red-function-node.json](./node-red-function-node.json)
+
+---
+
 ## License
 
 This project is licensed under the MIT License.  
@@ -21,4 +28,3 @@ See the [LICENSE](LICENSE) file for full details.
 This project demonstrates integration between Digilab and Node-RED for [your project’s purpose].  
 
 Feel free to contribute, report issues, or suggest improvements!
-
