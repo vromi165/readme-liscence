@@ -11,8 +11,8 @@ You can follow the project planning and progress here:
 
 ## Node-RED Function Node Example
 
-You can download the example Node-RED function node JSON file here:  
-[node-red-function-node.json](./node-red-function-node.json)
+You can download the example Node-RED function node code as a text file here:  
+[node-red-function-node.txt](./node-red-function-node.txt)
 
 ---
 
