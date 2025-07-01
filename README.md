@@ -1,3 +1,6 @@
 # readme-liscence
 Read ma and a MITT liscence
-Hier ist mein versuch mit dem Digilab ein Projekt zu erstellen.
+This is my attempt using Digilab and nodered.
+
+Project planning:
+https://github.com/users/vromi165/projects/1/views/1
